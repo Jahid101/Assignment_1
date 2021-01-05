@@ -101,6 +101,7 @@ section{
 #ki{
     font-size: 350%;
     margin-left: 100px;
+    color: white;
 }
 #ik{
     margin-top: 80px;
@@ -114,9 +115,10 @@ section{
     float: left;
 }
 .ay{
+    margin-top: 10%;
     background-image: url("shape/a.png");
     background-position: center;
-    border-radius: 7px;
+    border-radius: 100%;
     height: 30px;
     width: 100%;
     margin-top: 2%;
@@ -126,6 +128,25 @@ section{
     width: 70%;
     margin-top: 5%;
     margin-left: 15%;
+}
+#oi{
+    margin-top: 7%;
+    text-align: center;
+}
+.si{
+    
+    box-shadow: 10px 10px 40px orangered;
+    border-radius: 10px;
+    margin-top: 3%;
+    height: 50%;
+    width: 25%;
+    background-color: white;
+    float: left;
+    margin-bottom: 0%;
+}
+#sc{
+    text-align: center;
+    padding-bottom: 2%;
 }
 footer p{
     text-align: center;
