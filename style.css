@@ -105,20 +105,22 @@ section{
 }
 #ik{
     margin-top: 80px;
-    margin-left: 120px;
+    margin-left: 100px;
     margin-right: 0%;
 }
 .nc{
     width: 40%;
     margin-left: 5%;
     padding-left: 2%;
-    float: left;
+    display: inline-block;
 }
 .ay{
     margin-top: 10%;
     background-image: url("shape/a.png");
+    background-repeat: no-repeat;
     background-position: center;
-    border-radius: 100%;
+    background-size: 70% 100%;
+    border-radius: 10%;
     height: 30px;
     width: 100%;
     margin-top: 2%;
