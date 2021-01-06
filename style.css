@@ -98,32 +98,31 @@ section{
     background-color: wheat;
     height: 500px;
 }
-#ki{
-    font-size: 350%;
-    margin-left: 100px;
-    color: white;
-}
-#ik{
-    margin-top: 80px;
-    margin-left: 100px;
-    margin-right: 0%;
-}
 .nc{
-    width: 40%;
-    margin-left: 5%;
-    padding-left: 2%;
-    display: inline-block;
+    font-size: 300%;
+    color: white;
+    width: 30%;
+    margin-left: 23%;
+    margin-top: 1%;
+    float: left;
+    display: block;
+}
+.na{
+    width: 30%;
+    margin-top: 6%;
+    margin-right: 5%;
+    float: right;
+    display: block;
 }
 .ay{
-    margin-top: 10%;
+    margin-top: 7%;
     background-image: url("shape/a.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 70% 100%;
-    border-radius: 10%;
-    height: 30px;
+    border-radius: 15%;
+    height: 40px;
     width: 100%;
-    margin-top: 2%;
 }
 #lmg{
     height: 200px;
